@@ -1,0 +1,5 @@
+collections:
+  people:
+    output: false
+    sort_by: order
+

@@ -37,42 +37,60 @@ Description
 #### Project 2
 Description
 
-#### Project 3
-Description
+#### F.R.A.M.E: Feasibility, Reproducibility, and Application of MRI-derived brain networks for Early childhood development
+This project investigates whether structural similarity networks derived from ultra-low-field MRI retain biologically meaningful information, and how these networks compare to those derived from conventional field strengths. Through collaborations in low- and middle-income countries, we explore how portable neuroimaging can support research into healthy brain development and neurological risk.
+
+#### Ultra-low field Neuroimaging In The Elderly-UNITE
+The project involves the assessment of the ultra-low field MRI acceptability and its potential in detecting dementia biomarkers such as brain volumetric changes and vascular abnormalities.
+This will be achieved by collecting conventional MRI scans and ultra-low field MRI scans, and developing pipelines with imaging analysis tools and deep learning implementation to improve ultra-low field scan quality.
 ---
 
 ## People
 
-### Principal Investigator
+---
+layout: default
+title: People
+---
 
-**František Váša, PhD**
-Senior Lecturer in Machine Learning and Computational Neuroscience
-King's College London
-Short research statement, 2–3 sentences
+## Principal Investigator
 
-### Lab Members
+{% for person in site.people %}
+  {% if person.group == "PI" %}
+    <div class="person-block">
+      <img src="{{ person.photo }}" alt="Photo of {{ person.name }}">
+      <h3>{{ person.name }}</h3>
+      <p><strong>{{ person.role }}</strong><br>{{ person.affiliation }}</p>
+      <p>{{ person.content | markdownify }}</p>
+    </div>
+  {% endif %}
+{% endfor %}
 
-* **Isuru Wijesinghe** – Post Doctoral Researcher / Degree Program
-  Interests: 
+## Lab Members
 
-* **Levente Baljer** – PhD Student / Degree Program
-  Interests: ultra-low field MRI, iQT (image quality transfer), super-resolution
+<div class="people-grid">
+{% for person in site.people %}
+  {% if person.group == "member" %}
+    <div class="person-card">
+      <img src="{{ person.photo }}" alt="Photo of {{ person.name }}">
+      <h4>{{ person.name }}</h4>
+      <p><strong>{{ person.role }}</strong></p>
 
-* **Anita Song** – PhD Student / LIDO
-  Interests: EEG, 
+      {% if person.interests.size > 0 %}
+      <ul>
+        {% for interest in person.interests %}
+          <li>{{ interest }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </div>
+  {% endif %}
+{% endfor %}
+</div>
 
-* **Hajer Karoui** – PhD Student / Neuroimaging
-  Interests: ultra-low field MRI,low- and middle-income countries (LMIC), strucutral similarity networks, connectomics
-
-* **Annika Robiolo** – PhD Student / Degree Program
-  Interests: ultra-low field MRI,Alzheimer's Disease
-
-* **Ula Briski** – Research Assistant / Degree Program
-  Interests: ultra-low field MRI, segmentation, super-resolution
 
 ### Alumni
 
-No one left yet!
+No one has left yet!
 
 ---
 
@@ -80,8 +98,9 @@ No one left yet!
 
 ### Selected Publications
 
-* **František Váša**, Carly Bennallick, Niall J. Bourke, Francesco Padormo, Levente Baljer, Ula Briski, Paul Cawley, Tomoki Arichi, Tobias C. Wood, David J. Lythgoe, Flavio Dell’Acqua, Thomas C. Booth, Ashwin V. Venkataraman, Emil Ljungberg, Sean C.L. Deoni, Rosalyn J. Moran, Robert Leech, Steven C.R. Williams (2025). *Ultra-low-field brain MRI morphometry: Test–retest reliability and correspondence to high-field MRI*. Imaging Neuroscience. DOI(https://doi.org/10.1162/IMAG.a.930)
-* **Levente Baljer**, Yiqi Zhang, Niall J. Bourke, Kirsten A. Donald, Layla E. Bradford, Jessica E. Ringshaw, Simone R. Williams, Sean C. L. Deoni, Steven C. R. Williams, Khula SA Study Team, František Váša, Rosalyn J. Moran (2024). *Ultra-Low-Field Paediatric MRI in Low- and Middle-Income Countries: Super-Resolution Using a Multi-Orientation U-Net*. Human Brain Mapping. DOI(https://doi.org/10.1002/hbm.70112)
+* **František Váša**, Carly Bennallick, Niall J. Bourke, Francesco Padormo, Levente Baljer, Ula Briski, Paul Cawley, Tomoki Arichi, Tobias C. Wood, David J. Lythgoe, Flavio Dell’Acqua, Thomas C. Booth, Ashwin V. Venkataraman, Emil Ljungberg, Sean C.L. Deoni, Rosalyn J. Moran, Robert Leech, Steven C.R. Williams (2025). *Ultra-low-field brain MRI morphometry: Test–retest reliability and correspondence to high-field MRI*. Imaging Neuroscience. [DOI](https://doi.org/10.1162/IMAG.a.930)
+
+* **Levente Baljer**, Yiqi Zhang, Niall J. Bourke, Kirsten A. Donald, Layla E. Bradford, Jessica E. Ringshaw, Simone R. Williams, Sean C. L. Deoni, Steven C. R. Williams, Khula SA Study Team, František Váša, Rosalyn J. Moran (2024). *Ultra-Low-Field Paediatric MRI in Low- and Middle-Income Countries: Super-Resolution Using a Multi-Orientation U-Net*. Human Brain Mapping. [DOI](https://doi.org/10.1002/hbm.70112)
 
 ### Preprints
 
@@ -97,8 +116,8 @@ We strongly support **open science**. When possible, our software and derived da
 
 ### Software
 
-* **Repository Name** – Short description of purpose and methods
-* **Repository Name** – Short description
+* **shared-utils** – This repository will contain functions commonly used by the Half Lab members for processing and analysis.
+[Github](https://github.com/haflab/shared-utils)
 
 ### Data & Workflows
 
