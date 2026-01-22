@@ -3,7 +3,7 @@
 
 ### Welcome
 
-Welcome to the **[Half Lab]** at **[King's College London]**. We are a multidisciplinary research group focused on advancing neuroimaging methods and their application to brain development, health, and disease, with a particular emphasis on **ultra-low-field (ULF) MRI** and equitable global research.
+Welcome to the **Half Lab** at **King's College London**. We are a multidisciplinary research group focused on advancing neuroimaging methods and their application to brain development, health, and disease, with a particular emphasis on **ultra-low-field (ULF) MRI** and equitable global research.
 
 Our work spans methodological development, quantitative analysis, and translational research, aiming to make advanced neuroimaging tools more accessible and reproducible across diverse settings.
 
@@ -17,9 +17,9 @@ Our work spans methodological development, quantitative analysis, and translatio
 
 ### News
 
-* **[November 2025]** – Lab member *[Ula]* joined the group!
-* **[September 2025]** - Paper accepted to [Imaging Neuroscience] https://doi.org/10.1162/IMAG.a.930
-* **[September 2025]** – Levi won first place in the MICCAI 2025 Challenge: Enhancing Ultra-Low-Field MRI with Paired High-Field MRI Comparisons for Brain Imaging (ULF-EnC) 
+* **November 2025** – Lab member *Ula* joined the group!
+* **September 2025** - Paper accepted to Imaging Neuroscience https://doi.org/10.1162/IMAG.a.930
+* **September 2025** – Levi won first place in the MICCAI 2025 Challenge: Enhancing Ultra-Low-Field MRI with Paired High-Field MRI Comparisons for Brain Imaging (ULF-EnC) 
 
 ---
 
@@ -45,30 +45,30 @@ Description
 
 ### Principal Investigator
 
-**[František Váša, PhD]**
-[Senior Lecturer in Machine Learning and Computational Neuroscience]
-[King's College London]
-[Short research statement, 2–3 sentences]
+**František Váša, PhD**
+Senior Lecturer in Machine Learning and Computational Neuroscience
+King's College London
+Short research statement, 2–3 sentences
 
 ### Lab Members
 
-* **[Isuru Wijesinghe]** – [Post Doctoral Researcher / Degree Program]
-  Interests: []
+* **Isuru Wijesinghe** – Post Doctoral Researcher / Degree Program
+  Interests: 
 
-* **[Levente Baljer]** – [PhD Student / Degree Program]
-  Interests: [ultra-low field MRI, iQT (image quality transfer), super-resolution]
+* **Levente Baljer** – PhD Student / Degree Program
+  Interests: ultra-low field MRI, iQT (image quality transfer), super-resolution
 
-* **[Anita Song]** – [PhD Student / LIDO]
-  Interests: [EEG, ]
+* **Anita Song** – PhD Student / LIDO
+  Interests: EEG, 
 
-* **[Hajer Karoui]** – [PhD Student / Neuroimaging]
-  Interests: [ultra-low field MRI,low- and middle-income countries (LMIC), strucutral similarity networks, connectomics]
+* **Hajer Karoui** – PhD Student / Neuroimaging
+  Interests: ultra-low field MRI,low- and middle-income countries (LMIC), strucutral similarity networks, connectomics
 
-* **[Annika Robiolo]** – [PhD Student / Degree Program]
-  Interests: [ultra-low field MRI,Alzheimer's Disease]
+* **Annika Robiolo** – PhD Student / Degree Program
+  Interests: ultra-low field MRI,Alzheimer's Disease
 
-* **[Ula Briski]** – [Research Assistant / Degree Program]
-  Interests: [ultra-low field MRI, segmentation, super-resolution]
+* **Ula Briski** – Research Assistant / Degree Program
+  Interests: ultra-low field MRI, segmentation, super-resolution
 
 ### Alumni
 
@@ -80,8 +80,8 @@ No one left yet!
 
 ### Selected Publications
 
-* **František Váša**, Carly Bennallick, Niall J. Bourke, Francesco Padormo, Levente Baljer, Ula Briski, Paul Cawley, Tomoki Arichi, Tobias C. Wood, David J. Lythgoe, Flavio Dell’Acqua, Thomas C. Booth, Ashwin V. Venkataraman, Emil Ljungberg, Sean C.L. Deoni, Rosalyn J. Moran, Robert Leech, Steven C.R. Williams (2025). *Ultra-low-field brain MRI morphometry: Test–retest reliability and correspondence to high-field MRI*. Imaging Neuroscience. [DOI](https://doi.org/10.1162/IMAG.a.930)
-* **Levente Baljer**, Yiqi Zhang, Niall J. Bourke, Kirsten A. Donald, Layla E. Bradford, Jessica E. Ringshaw, Simone R. Williams, Sean C. L. Deoni, Steven C. R. Williams, Khula SA Study Team, František Váša, Rosalyn J. Moran (2024). *Ultra-Low-Field Paediatric MRI in Low- and Middle-Income Countries: Super-Resolution Using a Multi-Orientation U-Net*. Human Brain Mapping. [DOI](https://doi.org/10.1002/hbm.70112)
+* **František Váša**, Carly Bennallick, Niall J. Bourke, Francesco Padormo, Levente Baljer, Ula Briski, Paul Cawley, Tomoki Arichi, Tobias C. Wood, David J. Lythgoe, Flavio Dell’Acqua, Thomas C. Booth, Ashwin V. Venkataraman, Emil Ljungberg, Sean C.L. Deoni, Rosalyn J. Moran, Robert Leech, Steven C.R. Williams (2025). *Ultra-low-field brain MRI morphometry: Test–retest reliability and correspondence to high-field MRI*. Imaging Neuroscience. DOI(https://doi.org/10.1162/IMAG.a.930)
+* **Levente Baljer**, Yiqi Zhang, Niall J. Bourke, Kirsten A. Donald, Layla E. Bradford, Jessica E. Ringshaw, Simone R. Williams, Sean C. L. Deoni, Steven C. R. Williams, Khula SA Study Team, František Váša, Rosalyn J. Moran (2024). *Ultra-Low-Field Paediatric MRI in Low- and Middle-Income Countries: Super-Resolution Using a Multi-Orientation U-Net*. Human Brain Mapping. DOI(https://doi.org/10.1002/hbm.70112)
 
 ### Preprints
 
@@ -97,8 +97,8 @@ We strongly support **open science**. When possible, our software and derived da
 
 ### Software
 
-* **[Repository Name]** – Short description of purpose and methods
-* **[Repository Name]** – Short description
+* **Repository Name** – Short description of purpose and methods
+* **Repository Name** – Short description
 
 ### Data & Workflows
 
@@ -117,16 +117,16 @@ We welcome applications from motivated students with backgrounds in neuroscience
 
 We are always interested in collaborating with researchers and clinicians, particularly those working in global health and low-resource settings.
 
-If you are interested, please contact František **[frantisek.vasa@kcl.ac.uk]**.
+If you are interested, please contact František **frantisek.vasa@kcl.ac.uk**.
 
 ---
 
 ## Contact
 
-**[HALF Lab]**
-[Neuroimaging]
-[King's College London]
-[London, United Kingdom]
+**HALF Lab**
+Neuroimaging
+King's College London
+London, United Kingdom
 
-Email: [frantisek.vasa@kcl.ac.uk]
+Email: frantisek.vasa@kcl.ac.uk
 GitHub: https://github.com/haflab
