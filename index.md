@@ -18,7 +18,7 @@ Our work spans methodological development, quantitative analysis, and translatio
 ### News
 
 * **November 2025** – Lab member *Ula* joined the group!
-* **September 2025** - Paper accepted to Imaging Neuroscience https://doi.org/10.1162/IMAG.a.930
+* **September 2025** - Paper accepted to Imaging Neuroscience [DOI](https://doi.org/10.1162/IMAG.a.930)
 * **September 2025** – Levi won first place in the MICCAI 2025 Challenge: Enhancing Ultra-Low-Field MRI with Paired High-Field MRI Comparisons for Brain Imaging (ULF-EnC) 
 
 ---
@@ -47,7 +47,7 @@ This will be achieved by collecting conventional MRI scans and ultra-low field M
 
 ## People
 
-- 👥 [People](https://haflab.github.io/halflab.github.io/people/)
+- 👥 [People](https://haflab.github.io/halflab/people/)
 
 ### Alumni
 
