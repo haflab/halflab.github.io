@@ -47,7 +47,7 @@ This will be achieved by collecting conventional MRI scans and ultra-low field M
 
 ## People
 
-- 👥 [People](https://haflab.github.io/halflab.github.io//people/)
+- 👥 [People](https://haflab.github.io/halflab.github.io/people/)
 
 ### Alumni
 
